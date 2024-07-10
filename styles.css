@@ -1,8 +1,8 @@
 .square {
-    height: 50px;
+    aspect-ratio: 1 / 1;
     background-color: gray;
     border: 1px solid black;
-    flex-basis: 6%;
+    flex-basis: 6.25%;
 }
 
 .container {
@@ -15,4 +15,5 @@ body {
     display: flex;
     justify-content: center;
     flex-direction: column;
+    margin: 0;
 }
