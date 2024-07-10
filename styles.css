@@ -3,6 +3,7 @@
     background-color: gray;
     border: 1px solid black;
     flex-basis: 6.25%;
+    box-sizing: border-box;
 }
 
 .container {
